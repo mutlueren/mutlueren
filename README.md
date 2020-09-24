@@ -1,8 +1,9 @@
-### Hi everyone, I'm Mutlu 👋
+### Hi everyone 👋
 ```
 I am a software engineer living in Istanbul.
 I generally use Java technologies such as Java 8, Spring Boot, Hibernate, Vaadin on Web projects. 
 I have also knowledge of client side programming such as Javascript, Ajax calls, HTML, CSS.
-I aim to constantly improve myself.
 ```
-![1mMQf](https://user-images.githubusercontent.com/42313363/89043218-d1dd3100-d350-11ea-8521-df6f1f72c140.gif)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mutlu-eren-5991m/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mutlueren01) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg' alt='blog' height='40'>](https://mutlueren.github.io)  
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=mutlueren&show_icons=true)
